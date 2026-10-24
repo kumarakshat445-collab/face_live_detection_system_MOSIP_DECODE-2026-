@@ -1,0 +1,6 @@
+{
+  "name": "MOSIP Face Liveness & Presentation Attack Detection",
+  "description": "Biometric Face Liveness and Presentation Attack Detection (PAD) conforming to ISO/IEC 30107 for MOSIP Desktop and Android Registration Clients.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
